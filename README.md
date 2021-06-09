@@ -22,7 +22,8 @@ You can also find me on:
 
 
 
-### Available Scripts
+
+## Available Scripts
 
 To install all the packages run:
 

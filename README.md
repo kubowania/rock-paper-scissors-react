@@ -8,7 +8,6 @@ In this video I show you how to code Rock Paper Scissors in React! This is a con
 
 You can find the final code here: https://github.com/kubowania
 
-___
 ⭐ In most videos I use Tabnine as my A.I autocompletion tool. You can download it for free here: http://bit.ly/tabnine-top-tool
 
 ⭐ You can get a blockchain domain with my affiliate link here: http://bit.ly/get-a-crypto-domain
@@ -21,7 +20,9 @@ You can also find me on:
 * Twitter: https://twitter.com/ania_kubow
 * Instagram: https://instagram.com/aniakubow
 
-## Available Scripts
+
+
+### Available Scripts
 
 To install all the packages run:
 

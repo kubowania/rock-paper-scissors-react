@@ -1,6 +1,6 @@
 # Rock Paper Scissors in React
 
-{% youtube TIefmKAWMTo %}
+Watch the full tutoriual [here:](https://www.youtube.com/watch?v=TIefmKAWMTo)
 
 Video Sponsors: Get 70% off NordPass at https://nordpass.com/aniakubow or use the code aniakubow for the SummerKickOff Sale. Plus, you get an additional month for FREE!
 
@@ -23,7 +23,11 @@ You can also find me on:
 
 ## Available Scripts
 
-In the project directory, you can run:
+To install all the packages run:
+
+### `npm i`
+
+Then start the app by running:
 
 ### `npm start`
 
